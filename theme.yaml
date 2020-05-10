@@ -1,11 +1,11 @@
-id: mumurus
-name: liem-mumusur
+id: liem-mumurus
+name: Mumusur
 author:
   name: liem
-  website: https://github.com/lin-liem
-description: halo主题
+  website: https://mumusur.com
+description: 一个资源分享的个人博客
 logo:
 website: https://github.com/lin-liem/liem-mumusur
-repo: https://github.com/halo-dev
+repo: https://github.com/lin-liem/liem-mumusur
 version: 1.0.0
 require: 1.3.1
